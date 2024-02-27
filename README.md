@@ -1,0 +1,4 @@
+- 👋 Hi, I’m West!!
+- 👀 I’m interested in Cybersecurity, Web Development and Data Bases
+- 🌱 I’m currently learning C and Java
+- 😄 Pronouns: He . Him 
