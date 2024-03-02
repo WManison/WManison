@@ -1,4 +1,10 @@
-- 👋 Hi, I’m West!!
-- 👀 I’m interested in Cybersecurity, Web Development and Data Bases
-- 🌱 I’m currently learning C and Java
-- 😄 Pronouns: He . Him 
+Hey! I'm west.
+
+# About me:
+Junior for a BA in Computer Science. Current interests: 
+- Cybersecurity
+- Web Development
+- Algorithms
+- Javascript 
+- Java
+- Chess 
