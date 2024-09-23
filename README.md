@@ -1,7 +1,12 @@
 #About Me:
 ---
+
 Name: West Manison
 
-Age: 22 years old
+Age: 23 years old
 
-Experience: 1~ year
+Education:
+  - university of colorado, colorado springs - CS major
+  - compTIA a+ certification
+
+
