@@ -3,7 +3,7 @@
 
 Name: West Manison
 
-Age: 23 years old
+Age: 23
 
 Education:
   - university of colorado, colorado springs - CS major
